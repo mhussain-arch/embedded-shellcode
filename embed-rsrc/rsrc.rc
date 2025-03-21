@@ -1,0 +1,2 @@
+#define SC_ICON 1337
+SC_ICON RCDATA "notepad.ico"
